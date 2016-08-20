@@ -7,7 +7,7 @@
 #
 #       Honeywell IP-Camera admin credential disclosure
 #       This was created for educational purposes only.
-
+import sys
 import requests
 
 target = sys.argv[1]
